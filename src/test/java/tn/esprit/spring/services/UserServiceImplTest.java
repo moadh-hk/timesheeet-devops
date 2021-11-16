@@ -20,6 +20,7 @@ import tn.esprit.spring.entities.User;
 @TestMethodOrder(OrderAnnotation.class)
 
 public class UserServiceImplTest {
+	//modif1 pour git
 	
 	@Autowired
 	IUserService us;
